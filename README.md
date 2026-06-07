@@ -6,80 +6,90 @@
 
 Building scalable backend systems, event-driven architectures, and low-latency trading infrastructure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/geetha-atkuri-687578205)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Geetha-atkurii)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ageetha910@gmail.com)
+<a href="https://www.linkedin.com/in/geetha-atkuri-687578205">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Geetha-atkurii">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:ageetha910@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-Backend Developer with 1.5+ years of experience building high-performance, scalable backend systems for cryptocurrency and multi-broker trading platforms.
+```python
+class GeethaAtkuri:
 
-Currently working as an **Associate Software Engineer** at **KrafIT Technologies Pvt Ltd**, specializing in FastAPI, microservices, real-time WebSocket systems, and event-driven architectures using RabbitMQ and Redis.
+    role = "Python Backend Developer"
+    company = "KrafIT Technologies Pvt Ltd"
+    experience = "1.8+ Years"
+    expertise = [
+        "FastAPI",
+        "MySQL",
+        "Microservices",
+        "WebSockets",
+        "RabbitMQ",
+        "Redis",
+        "JWT Authentication",
+        "RBAC"
+    ]
 
-* 💼 Associate Software Engineer
-* 🏢 KrafIT Technologies Pvt Ltd
-* 🐍 Python & FastAPI Specialist
-* ⚡ Real-Time Systems & WebSockets
-* 📨 RabbitMQ & Event-Driven Architecture
-* 🔐 JWT Authentication & RBAC
-* 📈 FinTech & Trading Infrastructure
-* 🌱 Learning Docker, Linux & CI/CD
+    domains = [
+        "FinTech",
+        "Trading Systems",
+        "Real-Time Applications"
+    ]
+
+    currently_learning = [
+        "Docker",
+        "Linux",
+        "CI/CD",
+        "System Design"
+    ]
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & APIs
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql,redis,docker,git,github" />
 
-### Databases
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Messaging & Event Processing
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### Real-Time Technologies
-
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-
-### Tools & Practices
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RBAC-4B0082?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 💹 Featured Project — Niyam Crypto
 
-Multi-exchange cryptocurrency trading platform integrating multiple global exchanges through a unified backend architecture.
+**Multi-Exchange Cryptocurrency Trading Platform**
 
-### Key Contributions
+### Highlights
 
-* Designed and implemented JWT Authentication & Authorization workflows
-* Built centralized trade execution engine for Market and Limit Orders
-* Integrated Binance, Bybit, CoinDCX, Delta Exchange, and Coinswitch APIs
-* Developed real-time WebSocket pipelines for market data streaming
-* Built algorithmic trading infrastructure and subscription workflows
-* Developed real-time Straddle Analytics & Charting services for options traders
-* Processed live options market data to generate dynamic strategy visualizations
-* Built low-latency WebSocket-powered updates for real-time chart refreshes
-* Implemented RabbitMQ and Redis Pub/Sub based event-driven notifications
-* Designed scalable multi-exchange backend architecture with centralized credential management
-* Enabled secure multi-tenant trading operations
+* JWT Authentication & Authorization
+* Multi-Exchange Integration (Binance, Bybit, CoinDCX, Delta Exchange, Coinswitch)
+* Real-Time WebSocket Market Streaming
+* Algorithmic Trading Infrastructure
+* RabbitMQ & Redis Pub/Sub Notifications
+* Straddle Analytics & Real-Time Charting
+* Multi-Tenant Trading Architecture
 
-#### Technologies Used
+**Tech Stack**
 
 `Python` `FastAPI` `RabbitMQ` `Redis` `WebSockets` `MySQL`
 
@@ -87,64 +97,51 @@ Multi-exchange cryptocurrency trading platform integrating multiple global excha
 
 ## 📊 Featured Project — Niyam Trade
 
-A B2B multi-broker Equity & F&O trading platform enabling professional traders to manage and execute trades across multiple Indian brokers and client accounts.
+**Multi-Broker Equity & F&O Trading Platform**
 
-### Platform Highlights
+### Platform Features
 
 * Multi-Broker Integration
-* Equity & F&O Trading Support
 * Trader–Client Architecture
-* Multi-Account Trade Execution
+* Multi-Account Execution
+* Trade Mirroring
 * Risk Management Controls
-* Automated Trade Mirroring
-* Real-Time Order Tracking
-* WebSocket-Based Monitoring
+* Real-Time Position Tracking
+* WebSocket Monitoring
 
 ### 🔧 Sub-Project — Admin Panel & Operations Management
 
-Designed and developed backend services powering the administration and operational management layer of the Niyam Trade ecosystem.
+Built backend services for:
 
-#### Key Contributions
+* User Management
+* Broker Management
+* Order Management
+* Algorithm Configuration
+* Signal Bridge
+* RBAC & Permission Management
+* Centralized Platform Configuration
 
-* Built backend APIs for User Management, Broker Management, and Order Management
-* Developed administration workflows for traders, clients, brokers, and operations teams
-* Implemented Role-Based Access Control (RBAC) with granular permission management
-* Built Algorithm Configuration and Signal Bridge management modules
-* Delivered centralized configuration management for brokers, traders, clients, algorithms, and platform settings
-* Enabled business operations without requiring direct database access
-* Designed scalable administration APIs supporting platform-wide management workflows
-* Improved operational efficiency through centralized administrative controls
+**Tech Stack**
 
-#### Technologies Used
-
-`Python` `FastAPI` `MySQL` `JWT` `RBAC` `REST APIs`
-
+`Python` `FastAPI` `MySQL` `JWT` `RBAC`
 
 ---
 
-## 🎯 Core Expertise
+## 📈 GitHub Activity
 
-* FastAPI & Async Programming
-* REST API Development
-* Microservices Architecture
-* Event-Driven Systems
-* RabbitMQ Messaging
-* Redis Pub/Sub
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* WebSocket Applications
-* Trading Infrastructure
-* FinTech Platforms
-* Third-Party API Integrations
-* Backend System Design
-* Low-Latency Real-Time Systems
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Geetha-atkurii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Geetha-atkurii&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=Geetha-atkurii&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🚧 Currently Learning
 
 * Docker & Containerization
-* Linux System Administration
+* Linux Administration
 * CI/CD Pipelines
 * Distributed Systems
 * Cloud-Native Deployments
@@ -172,7 +169,7 @@ Designed and developed backend services powering the administration and operatio
 
 ### 💡 Philosophy
 
-_"Performance is a feature. Reliability is a requirement."_
+*"Performance is a feature. Reliability is a requirement."*
 
 ⭐ If you find my work interesting, feel free to explore my repositories.
 
