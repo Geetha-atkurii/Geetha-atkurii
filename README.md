@@ -31,28 +31,27 @@ class GeethaAtkuri:
     company = "KrafIT Technologies Pvt Ltd"
     experience = "1.8+ Years"
     expertise = [
-        "FastAPI",
-        "MySQL",
-        "Microservices",
-        "WebSockets",
-        "RabbitMQ",
-        "Redis",
-        "JWT Authentication",
-        "RBAC"
-    ]
+                  "FastAPI",
+                  "MySQL",
+                  "Microservices",
+                  "WebSockets",
+                  "RabbitMQ",
+                  "Redis",
+                  "JWT Authentication",
+                  "RBAC"
+                ]
 
     domains = [
-        "FinTech",
-        "Trading Systems",
-        "Real-Time Applications"
-    ]
+                "FinTech",
+                "Trading Systems",
+                "Real-Time Applications"
+              ]
 
-    currently_learning = [
-        "Docker",
-        "Linux",
-        "CI/CD",
-        "System Design"
-    ]
+    core_strengths = [
+                      "System design & scalable backend architecture",
+                      "Authentication & authorization systems",
+                      "Multi-tenant SaaS backend development"
+                     ]
 ```
 
 ---
@@ -138,14 +137,24 @@ Built backend services for:
   <img src="https://github-readme-streak-stats-umber-sigma.vercel.app?user=Geetha-atkurii&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🚧 Currently Learning
+## 🚧 Currently Focusing On
+🧠 Building a multi-tenant Identity-as-a-Service (IDaaS) platform that replaces traditional authentication and user management systems with a plug-and-play SDK/API model.
 
-* Docker & Containerization
-* Linux Administration
-* CI/CD Pipelines
-* Distributed Systems
-* Cloud-Native Deployments
-* Advanced System Design
+🧩 “An Auth0-like identity platform — self-hosted, multi-tenant, and fully customizable for enterprise SaaS”
+
+Services Included:
+
++ Complete Authentication System (Register, Login)
++ Password Management (Change Password, Forgot Password, Reset Flow)
++ Multi-tenant User Management SaaS (IDaaS)
++ SDK/API-driven authentication system
++ RBAC (Role-Based Access Control)
++ User lifecycle management (create, update, delete, audit)
++ Organization-level isolation using organization_id
+
+**Tech Stack**
+
+`Python` `FastAPI` `MySQL` `Redis` `JWT` `RBAC` `System Design` `SDK/API Driven` `Multi-Tenant` `SaaS Platform`
 
 ---
 
