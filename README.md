@@ -138,9 +138,37 @@ Built backend services for:
 </p>
 
 ## 🚧 Currently Focusing On
+
 🧠 Building a multi-tenant Identity-as-a-Service (IDaaS) platform that replaces traditional authentication and user management systems with a plug-and-play SDK/API model.
 
 🧩 “An Auth0-like identity platform — self-hosted, multi-tenant, and fully customizable for enterprise SaaS”
+
+### 🚀 Featured Work In Progress
+
+#### 🔐 UserManagement IDaaS Platform
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geetha-atkurii/UserManagement-IDaaS-Platform)
+
+</div>
+
+A production-ready multi-tenant Identity-as-a-Service (IDaaS) platform that enables organizations to integrate authentication, authorization, and user management through APIs and SDKs instead of building them from scratch.
+
+**Key Features**
+
+- Multi-Tenant Architecture
+- Organization Isolation
+- JWT Authentication
+- RBAC (Role-Based Access Control)
+- User Lifecycle Management
+- Password Reset & Recovery
+- Audit Logging
+- SDK/API Driven Integration
+- Scalable SaaS Architecture
+
+**Repository**
+👉 https://github.com/Geetha-atkurii/UserManagement-IDaaS-Platform
 
 Services Included:
 
@@ -154,7 +182,7 @@ Services Included:
 
 **Tech Stack**
 
-`Python` `FastAPI` `MySQL` `Redis` `JWT` `RBAC` `System Design` `SDK/API Driven` `Multi-Tenant` `SaaS Platform`
+`Python` `FastAPI` `MySQL` `Redis` `JWT` `RBAC` `Alembic` `Multi-Tenant` `SaaS`
 
 ---
 
